@@ -1,0 +1,1 @@
+This folder contains Python code which behaves as a single Neuron in a Neural Network that gets input and weight values from the user, applies different activation functions and displays the output results of those different activation functions applied. 
